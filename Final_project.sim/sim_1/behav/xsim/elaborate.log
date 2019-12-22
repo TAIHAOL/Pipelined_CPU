@@ -1,0 +1,42 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: E:/Vivado/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto ff1e767afb4b48cd8cbf5517e9e2b8d1 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot final_tb_behav xil_defaultlib.final_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.program_counter_cal
+Compiling module xil_defaultlib.pipepc
+Compiling module xil_defaultlib.mux4x32
+Compiling module xil_defaultlib.add
+Compiling module xil_defaultlib.gp
+Compiling module xil_defaultlib.cla_2
+Compiling module xil_defaultlib.cla_4
+Compiling module xil_defaultlib.cla_8
+Compiling module xil_defaultlib.cla_16
+Compiling module xil_defaultlib.cla_32
+Compiling module xil_defaultlib.cla32
+Compiling module xil_defaultlib.pl_inst_mem
+Compiling module xil_defaultlib.pipeif
+Compiling module xil_defaultlib.pipeif_id
+Compiling module xil_defaultlib.pipeidcu
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.mux2x5
+Compiling module xil_defaultlib.pipeid
+Compiling module xil_defaultlib.pipeid_exe
+Compiling module xil_defaultlib.mux2x32
+Compiling module xil_defaultlib.addsub32
+Compiling module xil_defaultlib.shift
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.pipeexe
+Compiling module xil_defaultlib.pipeexe_mem
+Compiling module xil_defaultlib.pl_data_mem
+Compiling module xil_defaultlib.pipemem
+Compiling module xil_defaultlib.pipemem_wb
+Compiling module xil_defaultlib.pipewb
+Compiling module xil_defaultlib.pipelinedcpu
+Compiling module xil_defaultlib.final_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot final_tb_behav

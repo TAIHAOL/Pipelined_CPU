@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/Taihao Liu/Desktop/Final_project/Final_project.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/Taihao Liu/Desktop/Final_project/Final_project.srcs/sim_1/new/final_tb.v,1576957230,verilog,,,,final_tb,,,,,,,,
+C:/Users/Taihao Liu/Desktop/Final_project/Final_project.srcs/sources_1/new/final_cpu.v,1576959419,verilog,,C:/Users/Taihao Liu/Desktop/Final_project/Final_project.srcs/sim_1/new/final_tb.v,,add;addsub32;alu;cla32;cla_16;cla_2;cla_32;cla_4;cla_8;gp;mux2x32;mux2x5;mux4x32;pipeexe;pipeexe_mem;pipeid;pipeid_exe;pipeidcu;pipeif;pipeif_id;pipelinedcpu;pipemem;pipemem_wb;pipepc;pipewb;pl_data_mem;pl_inst_mem;program_counter_cal;regfile;shift,,,,,,,,
